@@ -1,0 +1,5 @@
+{
+  "name": "TerraFlow: Smart Irrigation Dashboard",
+  "description": "A real-time soil moisture monitoring and automated irrigation control system with crop-specific logic and AI-powered insights.",
+  "requestFramePermissions": []
+}
